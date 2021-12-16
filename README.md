@@ -1,0 +1,1 @@
+Precompiled OpenCV libs for iOS and Android
